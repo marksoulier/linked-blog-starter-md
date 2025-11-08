@@ -12,7 +12,11 @@ When will we have an MVP that I can demo to Hill Airforce base?:
 - Sullivan Udall - 3D modeling group lead - Ask for a meeting
 - Jared Johnson - Full time 3D developer
 - [ ] Hello
-	- [ ] H
+	- [ ] This is an inner text bix
+		- [ ] Helo
+			- [ ] egr
+				- [ ] ge
+				- [ ] 
 
 50 Charecter
 
