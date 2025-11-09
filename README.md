@@ -3,6 +3,8 @@ These are the markdown files for the [linked-blog-starter](https://github.com/ma
 
 changes
 
+![[Pasted image 20251108165716.jpg]]
+
 # Vessel
 
 When will we have an MVP that I can demo to Hill Airforce base?:
